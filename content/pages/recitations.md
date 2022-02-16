@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: ed9f1419-4b3a-9f2f-682b-f4c63c1d78ec
 ---
@@ -88,7 +91,7 @@ DB Examples 1.15, 1.17 and Problem 1.2
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Derivations for <ε>, S, A, μ, P  
+Derivations for \<ε>, S, A, μ, P  
   
 DB Example 10.5
 {{< tdclose >}}
@@ -112,7 +115,7 @@ SAB 3.24
   
 Example 1 in: Levine, Ira N. _Physical Chemistry_. New York, NY: McGraw-Hill, 1994. ISBN: 9780070375284.  
   
-Find the melting point of ice at 100 atm. Δfus H = 79.7 cal/g, Ρliq\=1.000 g/cm3, Ρice = 0.917 g/cm3.  
+Find the melting point of ice at 100 atm. Δ{{< sub "fus" >}} H = 79.7 cal/g, Ρ{{< sub "liq" >}}\=1.000 g/cm{{< sup "3" >}}, Ρ{{< sub "ice" >}} = 0.917 g/cm{{< sup "3" >}}.  
   
 SAB Example 6.4
 {{< tdclose >}}

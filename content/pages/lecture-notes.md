@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4e6e18bc-05b5-f575-53e7-4f6a1fa68985
 ---
@@ -29,7 +32,7 @@ LECTURERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermo; 0th Law; Temperature; Work; Heat ([PDF]({{< baseurl >}}/resources/l01))
+Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat ([PDF]({{< baseurl >}}/resources/l01))
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -41,7 +44,7 @@ MB
 2
 {{< tdclose >}}
 {{< tdopen >}}
-State Functions, 1st Law, Paths ([PDF]({{< baseurl >}}/resources/l02))
+State Functions, 1{{< sup "st" >}} Law, Paths ([PDF]({{< baseurl >}}/resources/l02))
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -89,7 +92,7 @@ MB
 6
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Law; Entropy (Boltzmann and Clausius) ([PDF]({{< baseurl >}}/resources/l06))
+2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius) ([PDF]({{< baseurl >}}/resources/l06))
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -161,7 +164,7 @@ MB
 12
 {{< tdclose >}}
 {{< tdopen >}}
-ΔG0\= -RTlnK; Example ([PDF]({{< baseurl >}}/resources/l12))
+ΔG{{< sup "0" >}}\= -RTlnK; Example ([PDF]({{< baseurl >}}/resources/l12))
 {{< tdclose >}}
 {{< tdopen >}}
 MB

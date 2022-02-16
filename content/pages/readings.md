@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 273f23d0-0850-bb07-ec0b-e554fe0b47c1
 ---
@@ -31,7 +34,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermo; 0th Law; Temperature; Work; Heat
+Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 1.1-1.4, 1.8-1.9, 2.1
@@ -43,7 +46,7 @@ SAB 1.1-1.4, 1.8-1.9, 2.1
 2
 {{< tdclose >}}
 {{< tdopen >}}
-State Functions, 1st Law, Paths
+State Functions, 1{{< sup "st" >}} Law, Paths
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 2.2-2.6
@@ -91,7 +94,7 @@ SAB 2.11-2.13
 6
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Law; Entropy (Boltzmann and Clausius)
+2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius)
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 3.2
@@ -165,7 +168,7 @@ SAB 4.8
 12
 {{< tdclose >}}
 {{< tdopen >}}
-ΔG0\= -RTlnK; Example
+ΔG{{< sup "0" >}}\= -RTlnK; Example
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 8.1-8.2
