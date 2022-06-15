@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/1b2e76953a0d655a038bb4e2cc198bd0_rec09.pdf
+file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/1b2e76953a0d655a038bb4e2cc198bd0_rec09.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations

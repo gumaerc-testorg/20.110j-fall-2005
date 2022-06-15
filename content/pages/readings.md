@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the readings prescribed for each
+  topic of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -273,7 +275,7 @@ Regular Solutions; Mixing Energy; Mean Fields
 {{< tdopen >}}
 DB 15  
   
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +301,7 @@ Solvation; Colligative Properties
 {{< tdopen >}}
 DB 16  
   
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +397,7 @@ Electrolyte Solutions
 Electrolytes at Interfaces; Debye Length
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +409,7 @@ Electrolytes at Interfaces; Debye Length
 Titration of Polyelectrolytes
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +421,7 @@ Titration of Polyelectrolytes
 Thermodynamics of DNA Hybridization
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

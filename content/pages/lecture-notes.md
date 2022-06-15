@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lecture files as per the topics covered in the
+  course, along with the lecturer for each topic.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ LECTURERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat ([PDF]({{< baseurl >}}/resources/l01))
+Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat ({{% resource_link 425a9bc9-53f2-930f-af98-16e9fcfe399e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -44,7 +46,7 @@ MB
 2
 {{< tdclose >}}
 {{< tdopen >}}
-State Functions, 1{{< sup "st" >}} Law, Paths ([PDF]({{< baseurl >}}/resources/l02))
+State Functions, 1{{< sup "st" >}} Law, Paths ({{% resource_link e82e41ef-d0d2-c97f-14c8-fc8e44076e68 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -56,7 +58,7 @@ MB
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Joule and Joule-Thompson; Heat Capacity ([PDF]({{< baseurl >}}/resources/l03))
+Joule and Joule-Thompson; Heat Capacity ({{% resource_link 07bc5812-28f2-db79-4f39-16fb32146f1a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -68,7 +70,7 @@ MB
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Reversible and Irreversible Processes ([PDF]({{< baseurl >}}/resources/l04))
+Reversible and Irreversible Processes ({{% resource_link 8a129da5-7d7c-f57d-7dfa-3b4b7ae23312 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -80,7 +82,7 @@ MB
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Thermochemistry ([PDF]({{< baseurl >}}/resources/l05))
+Thermochemistry ({{% resource_link 56de76a1-1008-0853-b280-06a5ce0b0620 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -92,7 +94,7 @@ MB
 6
 {{< tdclose >}}
 {{< tdopen >}}
-2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius) ([PDF]({{< baseurl >}}/resources/l06))
+2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius) ({{% resource_link 88bf5a9a-c679-ebf0-83ef-41408a589bc1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -104,7 +106,7 @@ MB
 7
 {{< tdclose >}}
 {{< tdopen >}}
-ΔS for Reversible and Irreversible Processes ([PDF]({{< baseurl >}}/resources/l07))
+ΔS for Reversible and Irreversible Processes ({{% resource_link 0bea388d-6ba3-e32d-dda6-4a22f6574964 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -116,7 +118,7 @@ MB
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Equilibrium; Maxwell Relations; Free Energy ([PDF]({{< baseurl >}}/resources/l08))
+Equilibrium; Maxwell Relations; Free Energy ({{% resource_link ba41a23e-3d53-f23d-45c7-6169f7c89164 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -128,7 +130,7 @@ MB
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Potential; Phase Equilibrium ([PDF]({{< baseurl >}}/resources/l09))
+Chemical Potential; Phase Equilibrium ({{% resource_link 88508d9f-c5b7-fe83-6611-74a0bf2130e0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -140,7 +142,7 @@ MB
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Equilibrium; Equilibrium Constant ([PDF]({{< baseurl >}}/resources/l10))
+Chemical Equilibrium; Equilibrium Constant ({{% resource_link 1bdff1fc-0dba-cbe7-a759-e6ca10d918d3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -152,7 +154,7 @@ MB
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Standard States; Gibbs-Duhem ([PDF]({{< baseurl >}}/resources/l11))
+Standard States; Gibbs-Duhem ({{% resource_link c379ac82-f49b-9048-2e8d-e7554fcf9900 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -164,7 +166,7 @@ MB
 12
 {{< tdclose >}}
 {{< tdopen >}}
-ΔG{{< sup "0" >}}\= -RTlnK; Example ([PDF]({{< baseurl >}}/resources/l12))
+ΔG{{< sup "0" >}}\= -RTlnK; Example ({{% resource_link 31e50b96-0b38-0aff-9160-76c3b0734b97 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 MB
@@ -188,7 +190,7 @@ Hour Exam 1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Boltzmann Distribution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l13))
+Boltzmann Distribution ({{% resource_link b80dfd48-a39e-e751-8f40-046ba7b12020 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -200,7 +202,7 @@ KHS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Thermo and Boltzmann Distribution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l14))
+Thermo and Boltzmann Distribution ({{% resource_link 7e3399c5-a687-47c8-6d7d-078e2f9edcf8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -212,7 +214,7 @@ KHS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Occupation of States (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l15))
+Occupation of States ({{% resource_link 1a33648c-254c-337d-61b1-b131b9769677 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -224,7 +226,7 @@ KHS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Third Law (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l16))
+Third Law ({{% resource_link 2793b17b-3fa2-b075-747d-37680cff5923 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -236,7 +238,7 @@ KHS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Phase Equilibria, Single Component (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l17))
+Phase Equilibria, Single Component ({{% resource_link 39619ffd-2e3b-afe1-9f99-a54bc23769be "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -248,7 +250,7 @@ KHS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Phase Equilibria II; Clausius Clapeyron (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l18))
+Phase Equilibria II; Clausius Clapeyron ({{% resource_link fce92485-eb0f-218c-aa8e-d9a0e1fabbef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -284,7 +286,7 @@ KHS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Solvation; Colligative Properties (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l21))
+Solvation; Colligative Properties ({{% resource_link b1ba551c-8ded-d2c2-371d-364c2c3a974b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -308,7 +310,7 @@ Hour Exam 2
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Osmotic Pressure and Phase Partitioning (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l22))
+Osmotic Pressure and Phase Partitioning ({{% resource_link 92ce8ce2-02c1-5981-3ada-1056df8fb4a8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -320,7 +322,7 @@ LGG
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Tension (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l23))
+Surface Tension ({{% resource_link 28e875f4-c666-87e1-bd82-f056a732c770 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -332,7 +334,7 @@ LGG
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 1 - Freely Jointed Chain (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l24))
+Polymer 1 - Freely Jointed Chain ({{% resource_link c97eb4da-e0f6-7346-4fce-c5028ca52781 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -344,7 +346,7 @@ LGG
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 2 - Chain Conformation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l25))
+Polymer 2 - Chain Conformation ({{% resource_link d7ce812c-5b9b-c333-bb3f-366777f930f8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -356,7 +358,7 @@ LGG
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 3 - Rubber Elasticity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/l26))
+Polymer 3 - Rubber Elasticity ({{% resource_link fa2be843-c462-bb2e-2540-6f66d25df986 "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -368,7 +370,7 @@ LGG
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Electrolyte Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l27))
+Electrolyte Solutions ({{% resource_link 0a550d24-323e-836b-6d10-f172fe7785d4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -380,7 +382,7 @@ LGG
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Electrolytes at Interfaces; Debye Length (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l28))
+Electrolytes at Interfaces; Debye Length ({{% resource_link b551d92f-f315-1022-5777-d231b0ae94fb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -392,7 +394,7 @@ LGG
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Titration of Polyelectrolytes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l29))
+Titration of Polyelectrolytes ({{% resource_link 15a70397-8be4-f273-ec79-b8bfb28b9118 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -404,7 +406,7 @@ LGG
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Thermodynamics of DNA Hybridization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/l30))
+Thermodynamics of DNA Hybridization ({{% resource_link 15f93ef8-11ed-3536-65c3-e0ef11592a35 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -416,7 +418,7 @@ LGG
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Cooperativity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l31))
+Cooperativity ({{% resource_link cd35f092-878b-484b-ce92-6dc911a5bd79 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
