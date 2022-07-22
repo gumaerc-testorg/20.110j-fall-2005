@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the readings prescribed for each
+  topic of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 273f23d0-0850-bb07-ec0b-e554fe0b47c1
 ---
@@ -31,7 +36,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermo; 0th Law; Temperature; Work; Heat
+Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 1.1-1.4, 1.8-1.9, 2.1
@@ -43,7 +48,7 @@ SAB 1.1-1.4, 1.8-1.9, 2.1
 2
 {{< tdclose >}}
 {{< tdopen >}}
-State Functions, 1st Law, Paths
+State Functions, 1{{< sup "st" >}} Law, Paths
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 2.2-2.6
@@ -91,7 +96,7 @@ SAB 2.11-2.13
 6
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Law; Entropy (Boltzmann and Clausius)
+2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius)
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 3.2
@@ -165,7 +170,7 @@ SAB 4.8
 12
 {{< tdclose >}}
 {{< tdopen >}}
-ΔG0\= -RTlnK; Example
+ΔG{{< sup "0" >}}\= -RTlnK; Example
 {{< tdclose >}}
 {{< tdopen >}}
 SAB 8.1-8.2
@@ -270,7 +275,7 @@ Regular Solutions; Mixing Energy; Mean Fields
 {{< tdopen >}}
 DB 15  
   
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +301,7 @@ Solvation; Colligative Properties
 {{< tdopen >}}
 DB 16  
   
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -392,7 +397,7 @@ Electrolyte Solutions
 Electrolytes at Interfaces; Debye Length
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +409,7 @@ Electrolytes at Interfaces; Debye Length
 Titration of Polyelectrolytes
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -416,7 +421,7 @@ Titration of Polyelectrolytes
 Thermodynamics of DNA Hybridization
 {{< tdclose >}}
 {{< tdopen >}}
-[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{% resource_link 4e6e18bc-05b5-f575-53e7-4f6a1fa68985 "Class notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

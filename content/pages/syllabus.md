@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course, required texts, grading
+  criteria, exams, and homeworks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f8eaf2f1-0f98-f2a4-1cc7-fd06ff801841
 ---
@@ -94,4 +98,4 @@ All examinations will be closed book. One double-sided sheet of notes is allowed
 Homework
 --------
 
-Homework will be due on the sessions specified in the [calendar]({{< baseurl >}}/pages/calendar) section. Late homework will not be accepted. The two lowest homework grades will be dropped. Graded homework will be returned in recitation. Recitation problems are available in the [recitation]({{< baseurl >}}/pages/recitations) section. Students who can work all practice and homework problems easily without looking at notes or asking for help usually perform well on exams. You are encouraged to work in study groups, but must turn in only your own work.
+Homework will be due on the sessions specified in the {{% resource_link d551570f-f748-98ad-7b99-de2565ec27d1 "calendar" %}} section. Late homework will not be accepted. The two lowest homework grades will be dropped. Graded homework will be returned in recitation. Recitation problems are available in the {{% resource_link ed9f1419-4b3a-9f2f-682b-f4c63c1d78ec "recitation" %}} section. Students who can work all practice and homework problems easily without looking at notes or asking for help usually perform well on exams. You are encouraged to work in study groups, but must turn in only your own work.

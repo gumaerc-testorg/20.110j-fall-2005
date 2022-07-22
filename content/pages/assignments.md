@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section lists out a number of problem sets for this course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5531d59a-6ec5-f278-246b-684df381f2af
 ---
 
-Homework will be due on the sessions specified in the [calendar]({{< baseurl >}}/pages/calendar) section. Late homework will not be accepted. The two lowest homework grades will be dropped. Graded homework will be returned in recitation. Recitation problems are available in the [recitation]({{< baseurl >}}/pages/recitations) section. Students who can work all practice and homework problems easily without looking at notes or asking for help usually perform well on exams. You are encouraged to work in study groups, but must turn in only your own work.
+Homework will be due on the sessions specified in the {{% resource_link d551570f-f748-98ad-7b99-de2565ec27d1 "calendar" %}} section. Late homework will not be accepted. The two lowest homework grades will be dropped. Graded homework will be returned in recitation. Recitation problems are available in the {{% resource_link ed9f1419-4b3a-9f2f-682b-f4c63c1d78ec "recitation" %}} section. Students who can work all practice and homework problems easily without looking at notes or asking for help usually perform well on exams. You are encouraged to work in study groups, but must turn in only your own work.
 
 Assignments consist of problems from the following resources:
 

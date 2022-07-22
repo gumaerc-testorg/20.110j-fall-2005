@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the topics covered in the course
+  along with the key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d551570f-f748-98ad-7b99-de2565ec27d1
 ---
@@ -25,7 +29,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Thermo; 0th Law; Temperature; Work; Heat
+Introduction to Thermo; 0{{< sup "th" >}} Law; Temperature; Work; Heat
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +41,7 @@ Introduction to Thermo; 0th Law; Temperature; Work; Heat
 2
 {{< tdclose >}}
 {{< tdopen >}}
-State Functions, 1st Law, Paths
+State Functions, 1{{< sup "st" >}} Law, Paths
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -85,7 +89,7 @@ Problem set 1 due
 6
 {{< tdclose >}}
 {{< tdopen >}}
-2nd Law; Entropy (Boltzmann and Clausius)
+2{{< sup "nd" >}} Law; Entropy (Boltzmann and Clausius)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -157,7 +161,7 @@ Standard States; Gibbs-Duhem
 12
 {{< tdclose >}}
 {{< tdopen >}}
-ΔG0\= -RTlnK; Example
+ΔG{{< sup "0" >}}\= -RTlnK; Example
 {{< tdclose >}}
 {{< tdopen >}}
 
