@@ -6,6 +6,7 @@ file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/bfda2454
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rec20.pdf
 uid: bfda2454-e0a2-1e29-4f45-fdcc8fcf8efb
 ---
 This resource provides recitation problem on Gibbs-Duhem equation, swelling of rubber networks, partition coefficients, and proteins as polymers.
-
