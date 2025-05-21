@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/e8efc2cb5389e72014e1f6fd924fa296_rec02.pdf
+file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/e8efc2cb5389e72014e1f6fd924fa296_rec02.pdf
 file_size: 301374
 file_type: application/pdf
 learning_resource_types:
