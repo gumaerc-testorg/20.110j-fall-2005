@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides recitation problems on force, work and heat in
   rubber elasticity.
-file: /ol-ocw-studio-app/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/7cd99ac6dd68444b6b1bd114a8cf3319_rec19.pdf
+file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/7cd99ac6dd68444b6b1bd114a8cf3319_rec19.pdf
 file_size: 233754
 file_type: application/pdf
 learning_resource_types:
