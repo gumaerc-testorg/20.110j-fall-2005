@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides recitation problems on liquid volume, osmotic
   pumps and purified embryonic cells.
-file: /ol-ocw-studio-app/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/6f8ae94a5cc8bc7575d6fbe2da6aeb6a_rec15.pdf
+file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/6f8ae94a5cc8bc7575d6fbe2da6aeb6a_rec15.pdf
 file_size: 329563
 file_type: application/pdf
 learning_resource_types:
