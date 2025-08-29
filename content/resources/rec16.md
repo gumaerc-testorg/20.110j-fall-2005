@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides recitation problems on mixing of species, molecular
   lock and keys in solvents and magnitude of entropic forces in porteins.
-file: /courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/8a30cbe9d912f3e40c6c4f45cfcef91f_rec16.pdf
+file: /ol-ocw-studio-app/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/8a30cbe9d912f3e40c6c4f45cfcef91f_rec16.pdf
 file_size: 346822
 file_type: application/pdf
 learning_resource_types:
